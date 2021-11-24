@@ -5,15 +5,18 @@
 - piece of code that can be reused
 - function body: anything inside a function block
 - function
-    - declare / define a function
+    - declare / define / initiate a function
     - invoke / run / call a function
 - output can be preset with no input
 - output can be different from input
 - built-in functions
     - console.log()
     - Number(), & more
+- functions are values
 3. Function declarations vs expressions
-- 
+- some coding practices require one form over the other
+- function declarations can be called before they are initialized in the code (hoisting)
+- there's no "right" form but Jonas has a preference for function expressions based on the extra constraints on coding style
 4. Arrow functions
 5. Functions calling other functions
 6. Reviewing functions
