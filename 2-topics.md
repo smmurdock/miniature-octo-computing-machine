@@ -18,8 +18,10 @@
 - function declarations can be called before they are initialized in the code (hoisting)
 - there's no "right" form but Jonas has a preference for function expressions based on the extra constraints on coding style
 4. Arrow functions
+- just because they are newer doesn't mean they should be the default format
 5. Functions calling other functions
 6. Reviewing functions
+- it's good practice to return a number if an input is a number
 7. Coding Challenge 1
 8. Introduction to arrays
 9. Basic array operations (methods)
