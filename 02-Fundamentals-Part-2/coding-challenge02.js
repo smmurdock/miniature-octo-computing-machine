@@ -74,4 +74,5 @@ console.log(bills, tips);
 // test 5 - check calulated values of totals
 console.log(total);
 
-// NOTE: if one doesn't need the return values of the tips, the math could be changed and the 'tips' array could be eliminated by returning 'bill_amt * 1.15' or 'bill_amt * 1.2' as a result of the condition
+// NOTE: if one doesn't need the return values of the tips, the math could be changed and the 'tips' array could be eliminated 
+// by returning 'bill_amt * 1.15' or 'bill_amt * 1.2' as a result of the condition
